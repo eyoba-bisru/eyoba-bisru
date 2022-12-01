@@ -5,3 +5,4 @@
 - 👯 I’m looking to collaborate on Fullstack projects
 - 📫 You can reach me with email eabebe91@gmail.com
 - 😄 Pronouns: He/Him
+- ❤️ Hobbies: ⚽
