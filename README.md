@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working from home 
-- 🌱 I’m currently learning Software Engineering
-- 👯 I’m looking to collaborate on Fullstack projects
-- 📫 You can reach me with email eabebe91@gmail.com
 - 😄 Pronouns: He/Him
 - ❤️ Hobbies: ⚽
+
+### Github stats
+![Eyob's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyoba-bisru&theme=tokyonight)
+
+### Top langs
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyoba-bisru&layout=compact&theme=tokyonight)
